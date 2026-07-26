@@ -1,6 +1,5 @@
 ## Hi there 👋
-<img src="foto.png" alt="Ventana Dibujo.png" width="300">
-
+Ventana Dibujo.png
 <!--
 **ZhyroVoid/ZhyroVoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
