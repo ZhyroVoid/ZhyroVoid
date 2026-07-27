@@ -1,6 +1,5 @@
 ## Hi there 👋
-![image alt]([https://github.com/ZhyroVoid/ZhyroVoid/blob/2db38bff7547a439c0ed5aa9656afd185fa7dc50/Ventana%20Dibujo.png](https://github.com/ZhyroVoid/ZhyroVoid/blob/99ade6691d75c50721f2a9a0a170843f5a83d554/Timeline%201.gif))
-
+![image alt](https://github.com/ZhyroVoid/ZhyroVoid/blob/99ade6691d75c50721f2a9a0a170843f5a83d554/Timeline%201.gif)
 <!--
 **ZhyroVoid/ZhyroVoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
